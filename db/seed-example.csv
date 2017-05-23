@@ -1,0 +1,116 @@
+Location Id,Business Account Number,Ownership Name,DBA Name,Street Address,City,State,Source Zipcode,Business Start Date,Business End Date,Location Start Date,Location End Date,Mail Address,Mail City,Mail Zipcode,Mail State,NAICS Code,NAICS Code Description,Parking Tax,Transient Occupancy Tax,LIC Code,LIC Code Description,Supervisor District,Neighborhoods - Analysis Boundaries,Business Corridor,Business Location
+0370837-01-001,370837,Columbus Day Celebration Inc,Columbus Day Celebration Inc,678 Green St,San Francisco,CA,94133,01/01/1941,,01/01/1941,,678 Green St,San Francisco,94133,CA,,,false,false,,,3,Chinatown,,"678 GREEN ST
+San Francisco, CA 94133
+(37.79936, -122.41022)"
+0334899-01-001,334899,"The University Corp, Sf State",Village At Centennial Square,1600 Holloway Ave C6,San Francisco,CA,94132,01/01/1946,,01/01/1946,04/26/2014,1600 Holloway Ave Adm 350,San Francisco,94132,CA,,,false,false,,,7,Lakeshore,,"1600 HOLLOWAY AVE
+San Francisco, CA 94132
+(37.720848, -122.477023)"
+0334899-02-001,334899,"The University Corp, Sf State",Whirlwind Wheelchair Intl,1600 Holloway Ave Sci 251,San Francisco,CA,94132,01/01/1946,,01/01/1953,07/01/2014,1600 Holloway Ave Adm 350,San Francisco,94132,CA,,,false,false,,,7,Lakeshore,,"1600 HOLLOWAY AVE
+San Francisco, CA 94132
+(37.720848, -122.477023)"
+0334899-03-001,334899,"The University Corp, Sf State",Campus Copy Center,1650 Holloway Ave Plz Lvl,San Francisco,CA,94132,01/01/1946,,07/01/2012,,1600 Holloway Ave Adm 350,San Francisco,94132,CA,,,false,false,,,7,Lakeshore,,"1650 HOLLOWAY AVE PLZ
+LVL San Francisco, CA 94132"
+0334899-04-001,334899,"The University Corp, Sf State",Lobby Shop,1650 Holloway Ave Plz Lvl,San Francisco,CA,94132,01/01/1946,,07/01/2012,,1600 Holloway Ave Adm 350,San Francisco,94132,CA,,,false,false,H03,"Retail Mkts W/o Prep (Under 5,001)",7,Lakeshore,,"1650 HOLLOWAY AVE PLZ
+LVL San Francisco, CA 94132"
+0334899-05-001,334899,"The University Corp, Sf State",Healthy U,1650 Holloway Ave Plz Lvl,San Francisco,CA,94132,01/01/1946,,07/01/2012,,1600 Holloway Ave Adm 350,San Francisco,94132,CA,,,false,false,H03,"Retail Mkts W/o Prep (Under 5,001)",7,Lakeshore,,"1650 HOLLOWAY AVE PLZ
+LVL San Francisco, CA 94132"
+0314730-01-001,314730,Variety Club Of No. Ca,Variety Club Of No. Ca,582 Market St 101,San Francisco,CA,94104,01/01/1947,,01/01/1947,,582 Market St,San Francisco,94104,CA,8100-8399,Multiple,false,false,,,3,Financial District/South Beach,,"582 MARKET ST
+San Francisco, CA 94104
+(37.78926, -122.401407)"
+0383792-01-001,383792,Potrero Hill Neighborhood Hse,Potrero Hill Neighborhood Hse,953 De Haro St,San Francisco,CA,94107,01/01/1947,,01/01/1947,,953 953 De Haro St St,San Francisco,94107,CA,,,false,false,D04 H23,Multiple,10,Potrero Hill,,"953 DE HARO ST
+San Francisco, CA 94107
+(37.758212, -122.400976)"
+0387364-01-001,387364,Mental Health Assoctn Of Sf,Mental Health Assocatn Of Sf,870 Market St #928,San+francisco,CA,94102,01/01/1947,,01/01/1947,,870 Market St #928,San Francisco,94102,CA,,,false,false,,,,,,"870 MARKET ST
+San Francisco, CA 94102
+(37.784761, -122.407108)"
+0377995-01-001,377995,Board Of Trts Of The Glide Fou,Board Of Trts Of The Glide Fou,330 Ellis St,San Francisco,CA,94102,01/01/1949,,01/01/1949,,330 Ellis St,San Francisco,94102,CA,,,false,false,,,,,,"330 ELLIS ST
+San Francisco, CA 94102
+(37.785017, -122.411661)"
+0392796-01-001,392796,Unity Church San Francisco,Unity San Francisco Foundation,2224 Bush St C,San Francisco,CA,94115,01/01/1950,,01/01/1950,,2222 Bush St,San Francisco,94115,CA,,,false,false,,,5,Pacific Heights,,"2224 BUSH ST
+C San Francisco, CA 94115
+(37.786964, -122.433917)"
+0334093-01-001,334093,San Francisco Art Institute,San Francisco Art Institute,800 Chestnut St,San Francisco,CA,94131,01/01/1952,,01/01/1952,,800 Chestnut St,San Francisco,94133,CA,6100-6299,Private Education and Health Services,false,false,D04,Places Of Public Assembly & Open-Air Assembly,,,,"800 CHESTNUT ST
+San Francisco, CA 94131
+(37.803265, -122.417126)"
+0384034-01-001,384034,Temple United Meth Chrch Of Sf,Temple United Meth Chrch Of Sf,1111 Junipero Serra Blvd,San Francisco,CA,94132,01/01/1953,,01/01/1953,,1111 Junipero Serra Blvd,San Francisco,94132,CA,,,false,false,,,11,Oceanview/Merced/Ingleside,,"1111 JUNIPERO SERRA BLVD
+San Francisco, CA 94132
+(37.717454, -122.4725)"
+0371004-01-001,371004,Young Audiences Of Ncalifornia,Young Audiences Of Ncalifornia,125 Stillman St,San Francisco,CA,94107,01/01/1957,,01/01/1957,,465 California Street 433,San Francisco,94104,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,,,6,South of Market,,"125 STILLMAN ST
+San Francisco, CA 94107
+(37.781251, -122.397024)"
+0381341-01-001,381341,Whitney Young Child Dev Cntrs,Whitney Young Child Dev Cntrs,100 Whitney Young Cr,San Francisco,CA,94124,01/01/1958,,01/01/1958,,1101 Masonic Ave,San Francisco,94117,CA,6100-6299,Private Education and Health Services,false,false,,,10,Bayview Hunters Point,,"100 WHITNEY YOUNG CR
+San Francisco, CA 94124
+(37.733698, -122.384692)"
+0381341-02-001,381341,Whitney Young Child Dev Cntrs,Faces Sf,1101 Masonic Ave,San Francisco,CA,94117,01/01/1958,,07/01/2011,,1101 Masonic Ave,San Francisco,94117,CA,6100-6299,Private Education and Health Services,false,false,,,5,Haight Ashbury,,"1101 MASONIC AVE
+San Francisco, CA 94117
+(37.770939, -122.445499)"
+0385885-01-001,385885,California Tennis Club,California Tennis Club,1770 Scott St,San Francisco,CA,94115,01/01/1958,,01/01/1958,,1770 Scott St,San Francisco,94115,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,H24,"Restaurant Less Than 1,000 Sqft",2,Pacific Heights,,"1770 SCOTT ST
+San Francisco, CA 94115
+(37.785881, -122.438297)"
+0350591-01-002,350591,Spur,Spur,654 Mission St,San Francisco,CA,94105,01/01/1959,,01/01/1959,,654 Mission St,San Francisco,94105,CA,,,false,false,D04,Places Of Public Assembly & Open-Air Assembly,6,Financial District/South Beach,,"654 MISSION ST
+San Francisco, CA 94105
+(37.786911, -122.40119)"
+0190757-01-999,190757,Simco Electronics,Simco Electronics,1178 Bordeaux Drive,Sunnyvale,CA,94089,01/01/1962,,01/01/1962,,3131 Jay Street Suite 100 St,Santa Clara,95054,CA,,,false,false,,,,,,"1178 BORDEAUX DRIVE
+Sunnyvale, CA 94089
+(37.40638, -122.023183)"
+0421910-01-001,421910,Sf Women's Rehabilitation Fnd,Stepping Stone,255 10th Ave,San Francisco,CA,94118,01/01/1962,,01/01/1962,,255 10th Ave,San Francisco,94118,CA,,,false,false,,,1,Inner Richmond,,"255 10TH AVE
+San Francisco, CA 94118
+(37.783583, -122.468773)"
+0369039-02-001,369039,San Francisco Education Fund,San Francisco Education Fund,727 Golden Gate Ave 2nd Fl,San Francisco,CA,94102,01/01/1963,,07/01/2009,,2730 Bryant St 2nd Fl,San Francisco,94110,CA,,,false,false,,,5,Western Addition,,"727 GOLDEN GATE AVE
+San Francisco, CA 94102
+(37.780697, -122.423036)"
+0391752-01-001,391752,Smith-Kettle Well Eye Research,Smith-Kettle Well Eye Research,2318 Fillmore St,San Francisco,CA,94115,01/01/1963,,01/01/1963,,2318 Fillmore Street,San Francisco,94115,CA,5400-5499,"Professional, Scientific, and Technical Services",false,false,,,2,Pacific Heights,,"2318 FILLMORE ST
+San Francisco, CA 94115
+(37.791115, -122.434297)"
+0379585-02-001,379585,"Eoc,inc",Economic Opportunity Council,2155 San Jose Ave,San Francisco,CA,94134,01/01/1964,,01/01/1989,,1426 Fillmore Street #301,San Francisco,94115,CA,,,false,false,,,11,Outer Mission,,"2155 SAN JOSE AVE
+San Francisco, CA 94134
+(37.722106, -122.445453)"
+0379585-03-001,379585,"Eoc,inc",Chinatown-No. Beach Child Care,715 Chestnut St,San Francisco,CA,94133,01/01/1964,,09/01/1969,,1426 Fillmore Street #301,San Francisco,94115,CA,,,false,false,,,3,Russian Hill,,"715 CHESTNUT ST
+San Francisco, CA 94133
+(37.803509, -122.415259)"
+0399412-01-001,399412,Teen Challenge,Teen Challenge,1464 Valencia,San+francisco,CA,94110,01/01/1964,,01/01/1964,,1464 Valencia,San Francisco,94110,CA,6100-6299,Private Education and Health Services,false,false,,,,,,"1464 VALENCIA
+San Francisco, CA 94110
+(37.749449, -122.420404)"
+0191910-01-999,191910,Time Clock Sales Serv Co Inc,Time Clock Sales Serv Co Inc,99 So San Francisco,Brisbane Q4068,,0,01/01/1966,,01/01/1966,,2950 Airway Av #D-7,Costa Mesa,92626,CA,,,false,false,,,,,,"99 SO
+00000"
+0370778-01-001,370778,American Conservatory Theater,American Conservatory Theater,30 Grant Ave,San Francisco,CA,94108,01/01/1966,,01/01/1966,,30 Grant Ave,San Francisco,94108,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,,,3,Financial District/South Beach,,"30 GRANT AVE
+San Francisco, CA 94108
+(37.787443, -122.404988)"
+0370778-01-002,370778,American Conservatory Theater,American Conservatory Theater,415 Geary Street,San Francisco,CA,94102,01/01/1966,,01/01/1966,,30 Grant Ave,San Francisco,94108,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,D15 H86,Multiple,3,Tenderloin,,"415 GEARY STREET
+San Francisco, CA 94102
+(37.787107, -122.410226)"
+0370778-01-003,370778,American Conservatory Theater,American Conservatory Theater,681 Florida St,San Francisco,CA,94110,01/01/1966,,01/01/1988,,30 Grant Ave,San Francisco,94108,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,,,9,Mission,,"681 FLORIDA ST
+San Francisco, CA 94110
+(37.760761, -122.411019)"
+0387382-01-001,387382,Bethany Center Senior Housing,Bethany Center Senior Housing,580 Capp Street,San Francisco,CA,94110,01/01/1966,,01/01/1966,,580 Capp Street,San Francisco,94110,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,9,Mission,,"580 CAPP STREET
+San Francisco, CA 94110
+(37.757455, -122.417841)"
+0393762-01-001,393762,United Way Of The Bay Area,United Way Of The Bay Area,550 Kearny St 1000,San Francisco,CA,94108,01/01/1966,,01/01/1966,,550 Kearny Street Suite 1000,San Francisco,94108,CA,,,false,false,,,,,,"550 KEARNY ST
+San Francisco, CA 94108
+(37.79297, -122.404505)"
+0370687-01-001,370687,Magic Theatre Inc The,Magic Theatre Inc The,Fort Mason Ctr Bldg D,San+francisco,CA,94123,01/01/1967,,01/01/1967,,0 Fort Mason Ctr Bldg G,San Francisco,94123,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,,,,,,"FORT MASON CTR BLDG D San Francisco, CA 94123
+(37.800677, -122.436863)"
+0421023-01-001,421023,Audium Inc,Audium Inc,1616 Bush St,San Francisco,CA,94109,01/01/1967,,01/01/1967,,112 Midcrest Way,San Francisco,94131,CA,7100-7199,"Arts, Entertainment, and Recreation",false,false,,,2,Western Addition,,"1616 BUSH ST
+San Francisco, CA 94109
+(37.788238, -122.42387)"
+0047479-01-001,47479,Lai Enterprises Inc,775 Sacramento Rentals,775 Sacramento St,San Francisco,CA,94108,01/01/1968,,01/01/1968,,1168 Pacific Ave,San Francisco,94133,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,3,Chinatown,,"775 SACRAMENTO ST
+San Francisco, CA 94108
+(37.793434, -122.405762)"
+0037014-01-001,37014,Pacheu Jean,1261 8th Av Apartments,1261 8th Ave,San Francisco,CA,94122,01/01/1968,,01/01/1968,,1534 Irving St #201,San Francisco,94122,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,5,Inner Sunset,,"1261 8TH AVE
+San Francisco, CA 94122
+(37.764771, -122.465293)"
+0037014-02-001,37014,Pacheu Jean,1250 19th Av Apartments,1250 19th Ave,San Francisco,CA,94122,01/01/1968,,01/01/1984,12/31/2013,1534 Irving St #201,San Francisco,94122,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,4,Inner Sunset,,"1250 19TH AVE
+San Francisco, CA 94122
+(37.764501, -122.477194)"
+0037014-03-001,37014,Pacheu Jean,3638 19th St Apts,3638 19th St,San Francisco,CA,94110,01/01/1968,,01/01/1968,12/31/2013,1534 Irving St #201,San Francisco,94122,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,8,Mission,,"3638 19TH ST
+San Francisco, CA 94110
+(37.75991, -122.424589)"
+0001155-03-002,1155,Campana A E,745 14th St Parking Lot,745 14th St,San Francisco,CA,94114,01/01/1968,,01/01/1977,,2120 Market St #100,San Francisco,94114,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,8,Castro/Upper Market,,"745 14TH ST
+San Francisco, CA 94114
+(37.767664, -122.430039)"
+0001155-05-001,1155,Campana A E,2120-2122 Market Bldg,2120 Market St,San Francisco,CA,94114,01/01/1968,,10/01/1968,,2120 Market St #100,San Francisco,94114,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,8,Castro/Upper Market,,"2120 MARKET ST
+San Francisco, CA 94114
+(37.76718, -122.429469)"
+0001155-07-001,1155,Campana A E,3643-3647 17th St Building,3643 17th St,San Francisco,CA,94114,01/01/1968,,02/16/1990,,2120 Market St #100,San Francisco,94114,CA,5300-5399,Real Estate and Rental and Leasing Services,false,false,,,8,Castro/Upper Market,,"3643 17TH ST
+San Francisco, CA 94114
+(37.762976, -122.427321)"
