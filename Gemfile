@@ -14,6 +14,8 @@ gem 'pg', '~> 0.18'
 gem 'activerecord-postgis-adapter'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
+# Use Kaminari for pagination
+gem 'kaminari', '~> 1.0.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production

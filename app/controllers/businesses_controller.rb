@@ -3,9 +3,19 @@ class BusinessesController < ApplicationController
 
   # GET /businesses
   def index
-    @businesses = Business.all
+    if params[:page]
+      page = params[:page][:number]
+      per_page = params[:page][:size]
+      @businesses = Business.page(params[:page][:number]).per(params[:page][:size])
+    else
+      per_page = nil
+      @businesses = Business.all
+    end
 
-    render json: @businesses
+    render json: @businesses, meta: { pagination: {
+      per_page: per_page,
+      total_pages: @businesses.total_pages,
+      total_objects: @businesses.total_count }}
   end
 
   # GET /businesses/1
