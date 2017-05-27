@@ -6,7 +6,8 @@ class BusinessesController < ApplicationController
     if params[:page]
       page = params[:page][:number]
       per_page = params[:page][:size]
-      @businesses = Business.page(params[:page][:number]).per(params[:page][:size])
+      b = params[:search] ? Business.where("name ilike ?", "%#{params[:search]}%") : Business.all
+      @businesses = b.page(params[:page][:number]).per(params[:page][:size])
     else
       per_page = nil
       @businesses = Business.all
