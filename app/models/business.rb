@@ -6,7 +6,7 @@ class Business < ApplicationRecord
       ST_Distance(
         lonlat,
         ST_GeomFromText('POINT(? ?)',4326)
-      ) AS distance_meters,
+      ) AS distance,
       *
     }, lon, lat])).
     where([%{
@@ -32,6 +32,10 @@ class Business < ApplicationRecord
   end
   def lonlat
     Factories::GEO.point(longitude, latitude)
+  end
+
+  def distance
+    self[:distance]
   end
 
   private

@@ -1,3 +1,3 @@
 class BusinessSerializer < ActiveModel::Serializer
-  attributes :id, :name, :address, :start_date, :end_date
+  attributes :id, :name, :address, :start_date, :end_date, :distance
 end
